@@ -8,3 +8,5 @@ copyContents.py - Access this program then run in the terminal.  Just create eve
 deleteCreateContents.py - This will delete the contents of the file then the program will allow you to create new contents of the file.  Run deleteCreateContents.py test.txt (or any dummy file that you are willing to mess around)
 
 basicMoodAnalysis.py - Basic mood anlysis.  User will input sentence then determine if his/her mood is sad, normal, happy, or very happy.
+
+searchAWord.py - open a text file from a terminal (e.g. python test.txt) then ask for any words, search thru the file, then print the matched words.
